@@ -3,7 +3,6 @@ body, html {
     margin: 0;
     font: 400 15px/1.8 "Lato", sans-serif;
     color: #777;
-    font-family: fantasy;
   }
 
 .images{
@@ -95,7 +94,6 @@ h3{
     padding: 18px;
     font-size: 25px;
     letter-spacing: 10px;
-    font-family: fantasy;
   }
   .caption span.border2 {
     background-color: #111;
@@ -103,7 +101,6 @@ h3{
     padding: 18px;
     font-size: 25px;
     letter-spacing: 10px;
-    font-family: fantasy;
   }
 
   .carousel-inner img{
